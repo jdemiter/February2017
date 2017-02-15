@@ -1,20 +1,6 @@
-# February2017
-_italics_
+# About This
 
-**bold**
+_Hello and welcome to my GitHub introductory repository.  My name is Jennifer Demiter and here you will find assignments and projects as I work through the February 2017 DeepDive.net course._
 
-#1
 
-##2
 
-###3
-
-####4
-
-#####5
-
-######6
-
-[www.markdowntutorial.com](Markdown Tutorial)
-
-This is an edit for the new branch
